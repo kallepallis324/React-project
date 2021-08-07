@@ -1,0 +1,28 @@
+/* GLOBAL */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+}
+html {
+  scroll-behavior: smooth;
+}
+body {
+  padding-top: 10vh;
+}
+.cardConatiner {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 0 4%;
+}
+.Loader {
+  margin-top: 20%;
+  background-image: url("./img/loader.gif");
+}
+.sectionHeading {
+  margin-top: 100px;
+  margin-left: 70px;
+  color: rgb(27, 25, 25);
+}

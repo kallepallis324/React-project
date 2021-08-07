@@ -1,0 +1,14 @@
+.orderConfirm {
+  margin-top: 60px;
+  margin-bottom: 60px;
+  text-align: center;
+}
+.orderConfirm img {
+  height: 300px;
+}
+.orderConfirm h2 {
+  margin-top: 60px;
+}
+.orderConfirm p {
+  margin-top: 10px;
+}
